@@ -1,0 +1,12 @@
+#include <iostream>
+#include <cstdlib>
+#include <fstream>
+
+using namespace std;
+
+int main()
+{
+	ofstream outfile("redfile.csv");
+	
+
+
